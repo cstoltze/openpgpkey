@@ -2,7 +2,7 @@
 
 This is a [Web Key Directory](https://wiki.gnupg.org/WKD) server. It serves my open PGP key on the openpgpkey.stoltze.family subdomain.
 
-Here's the full [link](https://openpgpkey.stoltze.family/.well-known/openpgpkey/stoltze.family/hu/5oxfm5wdbe4z6am3pjgojeg7fo75czkj): (as of 2023-09-06). Clicking the link will download the key. It doesn't open a webpage.
+Here's the full [link](https://openpgpkey.stoltze.family/.well-known/openpgpkey/stoltze.family/hu/5oxfm5wdbe4z6am3pjgojeg7fo75czkj): (as of 2026-11-17). Clicking the link will download the key. It doesn't open a webpage.
 
 ## To use with PGP
 
